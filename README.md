@@ -1,1 +1,1 @@
-# Máscaras para formataço de campos de formulrio utilizando vanilla javscript e regex
+# Máscaras para formatação de campos de formulrio utilizando vanilla javscript e regex
